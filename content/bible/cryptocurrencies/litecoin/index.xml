@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Litecoin (LTC) on DNM Bible</title>
+    <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/litecoin/</link>
+    <description>Recent content in Litecoin (LTC) on DNM Bible</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/litecoin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installing Litecoin in Tails</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/litecoin/litecoin_tails/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/litecoin/litecoin_tails/</guid>
+      <description>Installing Litecoin in Tails #    To start make sure you have persistent volume and dot files enabled. If you do not have both setup and enabled make sure you do a reset after enabling them.
+  Next we need to download the Linux app image from https://electrum-ltc.org/    Once the download has finished make sure you move the app image file to either Tor Browser (Persistent) Or your Persistent folder.</description>
+    </item>
+    
+    <item>
+      <title>Tumbling Litecoin</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/litecoin/tumbling_litecoin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/litecoin/tumbling_litecoin/</guid>
+      <description>Tumbling Litecoin #  Just like with Bitcoin tumbling Litecoin is a very dated practice that provides no additonal benefits. You are likely to get scammed, or just pay extra fees that are not needed. Tumbling is a service that has worked well in the past. Tumbling your coins is still better than not tumbling them, but they will not protect you. This cannot be stressed enough, chain anylsis can very easily track your coins back to you even if you use a tumbler.</description>
+    </item>
+    
+  </channel>
+</rss>
