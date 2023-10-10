@@ -5,5 +5,5 @@
 <h1 align="center"> DARKNET-OPSEC</h1>
 
 ## LINK
-     https://0xbitx.github.io/DARKNET-OPSEC/
+https://0xbitx.github.io/DARKNET-OPSEC/
 
